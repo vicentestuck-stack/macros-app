@@ -1,0 +1,292 @@
+|Espresso|Café expreso, taza chica|beb|ml|30|9|0.1|1.7|0.2|0|0|0.1|14
+|Americano|Café americano|beb|ml|240|1|0.1|0|0|0|0|0|2
+|Cortado|Café con un poco de leche|beb|ml|120|30|1.7|2.4|1.4|0|2.4|0.9|25
+|Latte|Café con leche entera|beb|ml|350|54|3.4|5|2.2|0|5|1.4|45
+|Latte descremado|Con leche descremada|beb|ml|350|35|3.4|5|0.2|0|5|0.1|45
+|Flat white|Café con leche|beb|ml|240|55|3.2|4.6|2.6|0|4.6|1.6|42
+|Macchiato|Café manchado|beb|ml|60|40|2|3|2|0|3|1.2|25
+|Mocha|Café con chocolate y leche|beb|ml|350|80|3|11|3|0.5|9|1.8|50
+|Frappé|Café helado batido con azúcar|beb|ml|400|90|2|16|2.5|0|15|1.6|60
+|Café helado|Con helado y crema|beb|ml|300|120|2.5|15|5.5|0|14|3.5|50
+|Café con azúcar|Taza, 2 cucharaditas|beb|ml|200|20|0.2|5|0|0|5|0|5
+|Tinto|Café negro colombiano con azúcar|beb|ml|150|20|0.2|5|0|0|5|0|3
+|Café instantáneo|Preparado con agua|beb|ml|200|2|0.1|0.3|0|0|0|0|3
+|Té chai latte|Con leche|beb|ml|350|50|1.5|8.5|1.2|0|8|0.8|35
+|Té verde|Sin azúcar|beb|ml|250|1|0|0.2|0|0|0|0|1
+|Té helado|Envasado, con azúcar|beb|ml|500|33|0|8|0|0|8|0|10
+|Agüita de hierbas|Infusión, sin azúcar|beb|ml|250|1|0|0.2|0|0|0|0|1
+|Mate|Yerba mate, sin azúcar|beb|ml|250|2|0|0.4|0|0|0|0|1
+|Milo|Con leche entera|beb|ml|250|80|3.4|10.5|3|0.5|9|1.8|55
+|Red Bull|Lata 250 ml|beb|ml|250|46|0|11|0|0|11|0|40
+|Red Bull sin azúcar|Lata 250 ml|beb|ml|250|3|0|0|0|0|0|0|40
+|Monster|Lata 473 ml|beb|ml|473|47|0|12|0|0|11|0|80
+|Monster Ultra|Sin azúcar, lata|beb|ml|473|1|0|0.9|0|0|0|0|80
+|Score|Energética, lata|beb|ml|473|47|0|11.7|0|0|11.7|0|60
+|Volt|Energética, botella|beb|ml|300|48|0|12|0|0|12|0|50
+|Speed Max|Energética, lata|beb|ml|250|48|0|12|0|0|12|0|50
+|Burn|Energética, lata|beb|ml|250|47|0|11.5|0|0|11.5|0|50
+|Coca-Cola|Normal|beb|ml|350|42|0|10.6|0|0|10.6|0|4
+|Coca-Cola Zero|Sin azúcar|beb|ml|350|0.3|0|0|0|0|0|0|10
+|Coca-Cola Light|Sin azúcar|beb|ml|350|0.4|0|0|0|0|0|0|10
+|Pepsi|Normal|beb|ml|350|41|0|11|0|0|11|0|4
+|Sprite|Normal|beb|ml|350|26|0|6.5|0|0|6.5|0|10
+|Sprite Zero|Sin azúcar|beb|ml|350|1|0|0|0|0|0|0|10
+|Fanta|Naranja|beb|ml|350|30|0|7.4|0|0|7.4|0|10
+|Bilz|Gaseosa chilena|beb|ml|350|30|0|7.5|0|0|7.5|0|10
+|Pap|Gaseosa chilena|beb|ml|350|30|0|7.5|0|0|7.5|0|10
+|Kem|Gaseosa de piña|beb|ml|350|35|0|8.8|0|0|8.8|0|10
+|Inca Kola|Gaseosa|beb|ml|350|39|0|9.8|0|0|9.8|0|10
+|Postobón Manzana|Gaseosa colombiana|beb|ml|350|45|0|11|0|0|11|0|10
+|Colombiana|Gaseosa colombiana|beb|ml|350|43|0|10.8|0|0|10.8|0|10
+|Quatro|Gaseosa de toronja|beb|ml|350|41|0|10|0|0|10|0|10
+|Ginger ale|Gaseosa|beb|ml|350|34|0|8.8|0|0|8.8|0|10
+|Agua tónica|Normal|beb|ml|350|34|0|8.8|0|0|8.8|0|12
+|Agua mineral con gas|Botella|beb|ml|500|0|0|0|0|0|0|0|10
+|Agua saborizada|Sin azúcar|beb|ml|500|1|0|0.2|0|0|0|0|10
+|Jugo en polvo|Preparado, sin azúcar|beb|ml|250|4|0|1|0|0|0.5|0|5
+|Jugo de manzana|Envasado|beb|ml|250|46|0.1|11.3|0.1|0.2|9.6|0|4
+|Jugo de piña|Envasado|beb|ml|250|53|0.4|12.9|0.1|0.2|10|0|2
+|Jugo de naranja envasado|Con azúcar|beb|ml|250|47|0.5|11|0|0.2|10|0|5
+|Agua de coco|Natural|beb|ml|330|19|0.7|3.7|0.2|1.1|2.6|0.2|105
+|Kombucha|Botella|beb|ml|350|15|0|3.5|0|0|3|0|5
+|Gatorade|Isotónica|beb|ml|500|24|0|6|0|0|5.8|0|45
+|Powerade|Isotónica|beb|ml|500|16|0|4|0|0|4|0|40
+|Bebida de avena|Leche de avena|beb|ml|250|45|0.8|7|1.5|0.8|4|0.2|40
+|Leche de soya|Sin azúcar|beb|ml|250|33|3.3|0.6|1.8|0.4|0.3|0.3|40
+|Batido de frutas|Smoothie con leche|beb|ml|350|60|2|11|1|1|9|0.6|30
+|Vino blanco|Copa|beb|ml|150|82|0.1|2.6|0|0|1|0|5
+|Espumante|Champaña, copa|beb|ml|150|80|0.2|1.5|0|0|1|0|5
+|Pisco|Solo, corto|beb|ml|45|231|0|0|0|0|0|0|1
+|Whisky|Corto|beb|ml|45|250|0|0|0|0|0|0|0
+|Vodka|Corto|beb|ml|45|231|0|0|0|0|0|0|1
+|Cerveza sin alcohol|Lata|beb|ml|350|20|0.3|4.5|0|0|2.5|0|5
+|Cerveza artesanal|Botella|beb|ml|330|55|0.6|5|0|0|0.3|0|5
+|Michelada|Vaso|beb|ml|400|40|0.5|4.5|0|0|1|0|300
+|Terremoto|Pipeño con helado de piña|beb|ml|400|120|0.5|17|1.5|0|16|1|20
+|Navegado|Vino caliente con naranja|beb|ml|250|110|0.1|13|0|0|12|0|5
+|Cola de mono|Vaso|beb|ml|200|150|2|18|2|0|17|1.2|30
+|Mojito|Vaso|beb|ml|250|90|0|11|0|0|10.5|0|5
+|Piña colada|Vaso|beb|ml|250|170|0.4|22|5|0.2|21|4|8
+|Fernet con cola|Vaso|beb|ml|300|90|0|9|0|0|9|0|5
+|Refajo|Cerveza con gaseosa|beb|ml|350|40|0.2|7|0|0|6|0|5
+|Lomo liso|Asado|car|g|200|230|27|0|13|0|0|5|60
+|Entraña|Asada|car|g|200|240|26|0|15|0|0|6|65
+|Punta de ganso|Asada|car|g|200|210|28|0|10|0|0|4|60
+|Palanca|Asada|car|g|200|200|28|0|9|0|0|3.6|60
+|Abastero|Asado|car|g|200|220|27|0|12|0|0|4.8|60
+|Tapapecho|Asado|car|g|200|290|25|0|21|0|0|8.5|65
+|Malaya|Asada|car|g|200|250|26|0|16|0|0|6.5|60
+|Sobrecostilla|Asada|car|g|200|280|25|0|20|0|0|8|60
+|Huachalomo|Asado|car|g|200|230|26|0|14|0|0|5.6|60
+|Filete de vacuno|Lomo fino, a la plancha|car|g|180|200|28|0|9|0|0|3.6|55
+|Punta de anca|Picaña, asada|car|g|200|230|27|0|13|0|0|5.2|60
+|Churrasco|Carne en láminas, a la plancha|car|g|150|220|27|0|12|0|0|4.8|65
+|Entrecot|Asado|car|g|200|270|25|0|19|0|0|7.6|60
+|Ojo de bife|Ribeye, asado|car|g|250|290|24|0|21|0|0|8.5|60
+|T-bone|Asado|car|g|300|260|25|0|17|0|0|7|60
+|Costilla de res|Asada|car|g|250|340|23|0|27|0|0|11|65
+|Carne de hamburguesa|Medallón, cocido|car|u|1|250|20|0|18|0|0|7|300
+|Lengua de vacuno|Cocida|car|g|120|280|19|0|22|0|0|8|65
+|Chunchules|Tripas asadas|car|g|100|300|12|0|28|0|0|12|90
+|Anticucho|Brocheta de carne, unidad|car|u|1|200|22|3|11|0.5|2|4|350
+|Alitas de pollo|Asadas, con piel|car|g|150|254|24|0|17|0|0|4.7|85
+|Alitas BBQ|Con salsa|car|g|150|280|20|10|18|0|8|5|500
+|Pollo a la brasa|1/4 de pollo|car|u|1|450|40|0|32|0|0|9|500
+|Trutro largo asado|Unidad, con piel|car|u|1|300|30|0|19|0|0|5.3|130
+|Cordero asado|Pierna o costillar|car|g|200|290|25|0|21|0|0|9|70
+|Pernil de cerdo|Asado|car|g|200|270|27|0|17|0|0|6|60
+|Lomo de cerdo|Asado|car|g|180|190|28|0|8|0|0|2.8|55
+|Choripán|Unidad|car|u|1|450|18|40|24|1.5|3|9|1000
+|Milanesa de vacuno|Apanada, frita|car|g|180|260|22|12|14|0.5|1|3.5|350
+|Milanesa de pollo|Apanada, frita|car|g|180|240|22|12|12|0.5|1|2.5|350
+|Carne mechada|Desmechada|car|g|150|200|28|2|9|0.3|1|3.5|300
+|Albóndigas|Con salsa|car|g|150|220|15|8|14|0.5|2|5|400
+|Hígado de pollo|Salteado|car|g|100|170|25|1|6.5|0|0|2|80
+|Pato asado|Con piel|car|g|150|340|19|0|28|0|0|9.7|60
+|Conejo|Guisado|car|g|150|170|29|0|5|0|0|1.5|45
+|Pavo molido|Cocido|car|g|120|150|21|0|7|0|0|2|70
+|Butifarra|Soledeña, unidad|car|u|1|200|10|2|17|0|0|6|500
+|Mortadela|Laminada|car|g|30|310|15|2|27|0|1|10|1200
+|Salame|Laminado|car|g|30|400|22|1.5|34|0|1|12|1800
+|Pulpo|Cocido|car|g|120|164|30|4|2|0|0|0.5|460
+|Calamares fritos|Apanados|car|g|150|175|18|8|7.5|0.4|0|1.9|300
+|Ostiones|Cocidos|car|g|100|110|20|3|1|0|0|0.2|400
+|Jaiba|Cangrejo, carne|car|g|100|97|19|0|1.5|0|0|0.2|400
+|Congrio frito|Apanado|car|g|200|240|20|8|14|0.3|0|2.5|300
+|Congrio|Cocido o al vapor|car|g|200|100|21|0|1.5|0|0|0.4|90
+|Corvina|A la plancha|car|g|180|110|21|0|2.5|0|0|0.6|80
+|Atún fresco|A la plancha|car|g|150|132|28|0|1.3|0|0|0.3|45
+|Trucha|A la plancha|car|g|150|150|21|0|7|0|0|1.5|55
+|Bacalao|Cocido|car|g|150|105|23|0|0.9|0|0|0.2|80
+|Camarones apanados|Fritos|car|g|120|240|15|20|11|1|1|2|500
+|Salmón ahumado|Laminado|car|g|50|117|18|0|4.3|0|0|0.9|670
+|Kanikama|Surimi|car|g|60|95|7|15|0.5|0|5|0.1|700
+|Yogur natural|Entero, sin azúcar|lac|g|125|61|3.5|4.7|3.3|0|4.7|2.1|46
+|Yogur light|Con sabor, sin azúcar|lac|g|125|45|4|6|0.2|0|5|0.1|50
+|Queso crema|Untable|lac|g|30|340|6|4|34|0|3|20|320
+|Queso mozzarella|Rallado o laminado|lac|g|30|300|22|2.2|22|0|1|13|630
+|Queso de cabra|Fresco|lac|g|30|360|22|0|30|0|0|20|500
+|Ricotta|Fresca|lac|g|60|174|11|3|13|0|0.3|8|84
+|Leche condensada|Cucharada|lac|g|20|321|8|54|8.7|0|54|5.5|127
+|Leche en polvo|Entera|lac|g|26|496|26|38|27|0|38|17|370
+|Omelette|De 2 huevos|lac|u|1|190|13|1|15|0|0.8|4.5|250
+|Huevos revueltos|Con mantequilla|lac|g|120|150|10|1.6|11|0|1.4|3.5|145
+|Pan de completo|Unidad|cer|u|1|180|5.5|33|3|1.5|4|0.7|330
+|Pan de hamburguesa|Unidad|cer|u|1|150|5|28|2.5|1.2|4|0.5|270
+|Pan de centeno|Rebanada|cer|u|2|83|2.7|15.5|1|1.9|1.2|0.2|190
+|Croissant|Unidad|cer|u|1|230|4.6|26|12|1.5|6|7|270
+|Medialuna|Unidad|cer|u|1|180|3.5|22|8.5|0.8|7|4|180
+|Pan de pascua|Porción|cer|g|80|380|6|60|13|2|35|4|250
+|Panqueque|Crepe, unidad|cer|u|2|90|3|12|3.5|0.3|2|1.2|90
+|Waffle|Unidad|cer|u|1|220|6|25|11|0.8|5|2.2|380
+|Hotcakes|Unidad, sin miel|cer|u|2|90|2.5|11|4|0.4|2|1|180
+|Tortilla de maíz|Unidad|cer|u|2|52|1.4|11|0.7|1.5|0.2|0.1|10
+|Pandeyuca|Unidad|cer|u|1|140|4|16|7|0.2|1|3.5|200
+|Fideos de arroz|Cocidos|cer|g|180|109|0.9|24|0.2|1|0|0|19
+|Ñoquis|De papa, cocidos|cer|g|200|130|3|28|0.5|1.5|1|0.1|300
+|Ravioles|Rellenos, cocidos|cer|g|200|175|7|26|5|1.5|1.5|2|300
+|Lasaña|De carne, porción|cer|g|300|135|8|13|5.5|1|2.5|2.8|350
+|Spaghetti boloñesa|Plato|cer|g|300|150|7.5|19|5|1.6|3|1.8|300
+|Tallarines con salsa de tomate|Plato|cer|g|300|130|4.5|23|2.5|1.8|3|0.5|250
+|Fideos con queso|Mac and cheese|cer|g|250|164|7|20|6.5|1|2|3.5|420
+|Risotto|Plato|cer|g|250|140|3.5|20|5|0.5|0.5|2.5|300
+|Arroz chaufa|Arroz frito con huevo y carne|cer|g|300|170|6|24|5.5|1|1|1|500
+|Polenta|Cocida|cer|g|200|70|1.6|15|0.3|1|0.2|0|5
+|Choclo entero|Mazorca cocida, unidad|cer|u|1|90|3.3|19|1.4|2|4.5|0.2|15
+|Galletas integrales|Tipo crackers|cer|g|30|430|9|65|14|7|5|3|700
+|Edamame|Cocido|leg|g|100|121|12|9|5|5|2.2|0.6|6
+|Habas|Cocidas|leg|g|100|110|7.6|19.6|0.4|5.4|1.8|0.1|5
+|Lupino|Cocido, salado|leg|g|50|119|16|10|3|4.8|0|0.4|800
+|Soya texturizada|Hidratada|leg|g|100|110|17|10|0.3|5|2|0|5
+|Maní salado|Tostado con sal|leg|g|30|599|26|20|52|8|4|7|400
+|Semillas de maravilla|Girasol, peladas|leg|g|20|584|21|20|51|8.6|2.6|4.5|9
+|Linaza|Semillas|leg|g|10|534|18|29|42|27|1.6|3.7|30
+|Pastel de papas|Porción|pre|g|350|140|8|12|6.5|1.2|1.5|3|300
+|Chupe de jaiba|Porción|pre|g|250|170|11|10|10|0.5|1.5|5.5|450
+|Caldillo de congrio|Sopa|pre|g|400|70|7|5|2.5|0.6|1|0.6|300
+|Sopaipilla pasada|En chancaca, unidad|pre|u|1|230|2.5|38|8|1|18|2.5|170
+|Pan con palta|Marraqueta con palta|pre|u|1|330|8|47|13|6|2|2.2|520
+|Pan con huevo|Marraqueta con huevo revuelto|pre|u|1|360|15|46|13|2.5|2|4|620
+|Pan con queso|Marraqueta con queso|pre|u|1|350|14|46|12|2.5|2|7|750
+|Ave palta|Sándwich|pre|u|1|450|25|45|19|6|4|3.5|800
+|Ave mayo|Sándwich|pre|u|1|480|24|44|23|2.5|4|4|850
+|Barros Jarpa|Sándwich de jamón y queso caliente|pre|u|1|500|26|47|23|2.5|3|11|1500
+|Lomito italiano|Sándwich|pre|u|1|750|38|55|42|6|6|11|1400
+|Empanada de mariscos|Frita, unidad|pre|u|1|420|15|35|24|1.5|2|6|600
+|Empanada napolitana|Jamón, queso y tomate, unidad|pre|u|1|380|15|33|21|1.5|2|9|700
+|Guatitas|A la jardinera|pre|g|300|110|11|5|5|1|1.5|2|350
+|Tomaticán|Plato|pre|g|300|80|4|8|3.5|1.5|3.5|1|250
+|Ensalada de papas|Con mayonesa|pre|g|150|150|2|14|9.5|1.3|1|1.4|300
+|Ensalada rusa|Papa, zanahoria y arvejas con mayo|pre|g|150|150|2.5|12|10|2|2|1.5|300
+|Palta reina|Rellena de pollo y mayo, unidad|pre|u|1|300|10|10|26|7|1|4|250
+|Leche nevada|Postre|pre|g|150|120|5|17|3.5|0|15|1.5|60
+|Sémola con leche|Postre|pre|g|150|120|4|20|2.5|0.3|11|1.5|50
+|Picarones|Unidad, con chancaca|pre|u|1|120|1.5|20|4|0.5|10|0.8|60
+|Calzones rotos|Unidad|pre|u|1|110|1.5|13|5.5|0.3|5|1.5|50
+|Brazo de reina|Porción|pre|g|80|340|5|55|11|0.8|38|4|150
+|Picada colombiana|Carnes, chorizo, papa y arepa|col|g|400|280|15|15|18|1.5|1|6.5|600
+|Natilla|Postre navideño|col|g|120|130|1.5|25|3|0.3|15|2.5|40
+|Salpicón de frutas|Con jugo|col|g|300|70|0.6|17|0.2|1.2|14|0|5
+|Champús|Bebida de maíz y frutas|col|ml|250|70|0.5|17|0.1|0.8|12|0|5
+|Avena colombiana|Bebida fría|col|ml|250|100|3.5|16|2.5|0.6|11|1.5|40
+|Cazuela de mariscos|Porción|col|g|350|140|12|5|8|0.5|1.5|5|450
+|Arroz atollado|Plato|col|g|350|160|8|20|5.5|0.8|1|1.8|400
+|Sudado de pollo|Con papa|col|g|350|110|10|8|4|1.2|1.5|1|300
+|Mute santandereano|Sopa|col|g|400|90|5.5|10|3|2|1|1|300
+|Envuelto de mazorca|Unidad|col|u|1|200|4|38|4|3|10|2|120
+|Huevos rancheros|Con salsa de tomate|col|g|200|130|8|5|9|1|2.5|2.5|350
+|Arepa de queso asada|Rellena, unidad|col|u|1|280|11|30|13|2.5|1|7|450
+|Pizza pepperoni|Porción mediana|rap|u|1|310|13|35|13|2.3|3.8|5.5|750
+|Pizza hawaiana|Porción mediana|rap|u|1|280|12|36|9.5|2|6|4.2|650
+|Pizza vegetariana|Porción mediana|rap|u|1|250|10|34|8.5|2.8|4|3.8|550
+|Quesadilla|Unidad|rap|u|1|470|20|40|25|3|2|12|900
+|Nachos con queso|Porción|rap|g|200|340|9|36|19|3|2|6|700
+|Sándwich de pollo crispy|Unidad|rap|u|1|500|26|48|22|2.5|6|4|1100
+|Alitas picantes|6 unidades|rap|u|1|480|36|4|35|0|1|9|1500
+|Handroll|Unidad|rap|u|1|350|12|52|10|2|7|2.5|650
+|Gyozas|Unidad|rap|u|5|45|2|5|2|0.3|0.4|0.6|90
+|Ramen|Con caldo, carne y huevo|rap|g|500|90|4.5|11|3|0.6|0.6|1|380
+|Pad thai|Plato|rap|g|350|160|7|21|5.5|1.2|5|1|450
+|Chow mein|Tallarines salteados|rap|g|300|140|6|18|5|1.5|2|0.8|500
+|Wantán frito|Unidad|rap|u|5|60|2|6|3|0.2|0.2|0.6|90
+|Arrollado primavera|Unidad|rap|u|1|150|4|17|7.5|1.5|2|1.5|300
+|Falafel|Unidad|rap|u|4|57|2.3|5.4|3|1.2|0|0.4|50
+|Empanada argentina|De carne, horno, unidad|rap|u|1|280|11|27|14|1.5|2|5|450
+|Pollo apanado con papas|Combo|rap|u|1|850|40|70|45|5|1|9|1600
+|Helado de agua|Paleta|dul|u|1|70|0|18|0|0|16|0|5
+|Paleta de helado de crema|Bañada en chocolate|dul|u|1|190|2.5|19|12|0.5|17|8|40
+|Brownie|Unidad|dul|u|1|230|2.7|30|11|1.2|20|3.5|120
+|Cheesecake|Porción|dul|u|1|400|7|32|28|0.4|24|15|300
+|Torta tres leches|Porción|dul|u|1|350|7|48|14|0.3|38|8|130
+|Flan|Postre|dul|g|120|145|4|23|4|0|22|2|60
+|Gelatina|Con azúcar|dul|g|150|62|1.2|14|0|0|14|0|40
+|Gelatina sin azúcar|Light|dul|g|150|10|1.5|0.5|0|0|0|0|50
+|Mousse de chocolate|Postre|dul|g|100|225|4|22|14|1.5|18|8|40
+|Pie de limón|Porción|dul|u|1|350|5|50|14|0.5|33|6|200
+|Muffin|Unidad|dul|u|1|380|5|52|17|1.5|30|3|340
+|Cupcake|Con cobertura|dul|u|1|300|3|43|13|0.6|32|5|250
+|Galletas de avena|Unidad|dul|u|3|65|1|9.5|2.5|0.7|4.5|0.8|55
+|Galletas con chips de chocolate|Unidad|dul|u|3|50|0.6|7|2.4|0.3|3.8|1.2|35
+|Chocolate blanco|Barra|dul|g|25|539|6|59|32|0|59|19|90
+|Bombón|Unidad|dul|u|2|50|0.6|5.5|2.8|0.3|5|1.6|8
+|Marshmallows|Malvaviscos|dul|g|30|318|1.8|81|0.2|0.1|58|0|80
+|Turrón|Porción|dul|g|30|480|10|60|22|3|45|2.5|20
+|Maní confitado|Garapiñado|dul|g|40|500|14|50|28|5|40|4|10
+|Ramitas|Palitos salados|dul|g|30|420|7|62|16|2.5|2|5|1300
+|Nachos de bolsa|Tortilla chips|dul|g|30|500|7|60|25|4.5|2|3.5|500
+|Chicharrones de bolsa|Snack|dul|g|30|544|61|0|31|0|0|11|1800
+|Barquillo de chocolate|Oblea bañada, unidad|dul|u|1|150|2|17|8.5|0.5|11|5|30
+|Cocadas|Dulce de coco|dul|g|30|450|3|60|22|4|55|19|20
+|Higo|Fresco|fru|u|2|37|0.4|9.6|0.2|1.5|8.1|0|1
+|Membrillo|Fresco|fru|g|100|57|0.4|15|0.1|1.9|12|0|4
+|Níspero|Unidad|fru|u|3|17|0.1|4.3|0|0.6|3|0|0
+|Pomelo|Toronja, mitad|fru|u|1|52|0.9|13|0.2|2|8.5|0|0
+|Tuna|Fruta, unidad|fru|u|1|42|0.7|9.6|0.5|3.6|9|0|5
+|Granada|Arilos|fru|g|100|83|1.7|19|1.2|4|14|0.1|3
+|Caqui|Unidad|fru|u|1|118|1|31|0.3|6|21|0|2
+|Feijoa|Unidad|fru|u|2|25|0.4|6|0.2|3|4|0|1
+|Zapote|Pulpa|fru|g|100|124|2|32|0.6|5|20|0.1|5
+|Higos secos|Deshidratados|fru|g|30|249|3.3|64|0.9|9.8|48|0.1|10
+|Ciruelas secas|Deshidratadas|fru|g|30|240|2.2|64|0.4|7.1|38|0|2
+|Dátiles|Deshidratados|fru|g|30|282|2.5|75|0.4|8|63|0|2
+|Arándanos deshidratados|Con azúcar|fru|g|30|325|0.1|82|1.4|5.3|65|0.1|3
+|Mango deshidratado|Con azúcar|fru|g|30|319|2.5|79|1.2|2.4|66|0.3|160
+|Rúcula|Hojas|ver|g|40|25|2.6|3.7|0.7|1.6|2|0.1|27
+|Kale|Col rizada|ver|g|60|49|4.3|8.8|0.9|3.6|2.3|0.1|38
+|Alcachofa|Cocida, unidad|ver|u|1|64|3.5|14|0.4|10|1.2|0.1|72
+|Palmitos|En conserva|ver|g|80|28|2.5|4.6|0.6|2.4|0|0.1|425
+|Rabanitos|Crudos|ver|g|50|16|0.7|3.4|0.1|1.6|1.9|0|39
+|Aceitunas|Verdes o negras|ver|g|30|115|0.8|6|10.7|3.2|0|1.4|735
+|Pepinillos|En vinagre|ver|g|30|11|0.3|2.3|0.2|1|1.1|0|875
+|Ají verde|Fresco|ver|g|20|40|2|9|0.2|1.5|5|0|7
+|Jalapeños|En conserva|ver|g|20|27|0.9|4.7|0.9|2.6|2.3|0.1|1670
+|Puerro|Cocido|ver|g|80|31|0.8|7.6|0.2|1|2|0|10
+|Ajo|Diente|ver|g|5|149|6.4|33|0.5|2.1|1|0.1|17
+|Brotes de soya|Crudos|ver|g|50|30|3|5.9|0.2|1.8|4.1|0|6
+|Zanahoria cocida|Cocida|ver|g|100|35|0.8|8.2|0.2|3|3.5|0|58
+|Choclo en lata|Grano dulce|ver|g|80|81|2.3|16|1.2|2|5.5|0.2|210
+|Verduras salteadas|Con aceite|ver|g|150|60|2|7|3|2.5|3|0.5|200
+|Salsa de soya|Cucharada|otr|g|15|53|8|4.9|0.6|0.8|0.4|0.1|5500
+|Salsa BBQ|Cucharada|otr|g|15|172|0.8|41|0.6|0.9|33|0.1|1000
+|Salsa rosada|Mayonesa con kétchup|otr|g|15|450|1|12|44|0|10|6.5|700
+|Salsa de ajo|Cucharada|otr|g|15|500|1|4|53|0|1|8|600
+|Vinagreta|Aceite y vinagre|otr|g|15|300|0|3|32|0|2|4.5|500
+|Chimichurri|Cucharada|otr|g|15|400|0.8|4|43|1|0.5|6|500
+|Pesto|Cucharada|otr|g|15|450|5|6|45|1.5|1|8|900
+|Salsa blanca|Bechamel|otr|g|60|130|3.5|9|9|0.2|4|5|300
+|Crema ácida|Cucharada|otr|g|20|198|2.4|4.6|19|0|3.4|12|31
+|Aderezo César|Cucharada|otr|g|15|480|2|4|51|0|3|8|1000
+|Sal|Pizca, 1 g|otr|g|1|0|0|0|0|0|0|0|38758
+|Endulzante|Sucralosa o stevia, gotas|otr|g|1|0|0|0|0|0|0|0|0
+|Margarina|Untable|otr|g|10|717|0.2|0.7|80|0|0|15|700
+|Manteca|De cerdo|otr|g|10|902|0|0|100|0|0|39|0
+|Aceite de coco|Cucharada|otr|g|10|862|0|0|100|0|0|87|0
+|Crema de avellanas|Con cacao|otr|g|20|539|6.3|57|31|3.4|56|10.6|41
+|Creatina|5 g|sup|g|5|0|0|0|0|0|0|0|0
+|BCAA|1 porción|sup|u|1|5|1|0|0|0|0|0|10
+|Colágeno|Polvo, 10 g|sup|g|10|360|90|0|0|0|0|0|200
+|Proteína vegetal|1 scoop|sup|u|1|120|22|3|2|1|0.5|0.4|250
+|Proteína isolate|1 scoop|sup|u|1|110|25|1|0.5|0|0.5|0.3|50
+|Pre-entreno|1 porción|sup|u|1|5|0|1|0|0|0|0|50
+|Gel energético|Unidad|sup|u|1|100|0|25|0|0|12|0|50
+|Electrolitos|Sobre, en agua|sup|u|1|10|0|2|0|0|1|0|500
